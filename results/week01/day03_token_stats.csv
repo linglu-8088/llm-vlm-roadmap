@@ -1,0 +1,201 @@
+﻿pair_id,language,tokenizer,text,char_count,utf8_bytes,token_count,tokens_per_char
+1,zh,Qwen2.5,机器人正在处理输入数据。,12,36,6,0.5
+1,en,Qwen2.5,The robot is processing input data.,35,35,7,0.2
+2,zh,Qwen2.5,机器人正在分析测试结果。,12,36,6,0.5
+2,en,Qwen2.5,The robot is analyzing the test results.,40,40,8,0.2
+3,zh,Qwen2.5,机器人正在优化运行速度。,12,36,6,0.5
+3,en,Qwen2.5,The robot is optimizing runtime speed.,38,38,7,0.18421052631578946
+4,zh,Qwen2.5,机器人正在记录实验日志。,12,36,7,0.5833333333333334
+4,en,Qwen2.5,The robot is recording experiment logs.,39,39,7,0.1794871794871795
+5,zh,Qwen2.5,机器人正在生成预测结果。,12,36,6,0.5
+5,en,Qwen2.5,The robot is generating predictions.,36,36,6,0.16666666666666666
+6,zh,Qwen2.5,摄像头正在处理输入数据。,12,36,6,0.5
+6,en,Qwen2.5,The camera is processing input data.,36,36,7,0.19444444444444445
+7,zh,Qwen2.5,摄像头正在分析测试结果。,12,36,6,0.5
+7,en,Qwen2.5,The camera is analyzing the test results.,41,41,8,0.1951219512195122
+8,zh,Qwen2.5,摄像头正在优化运行速度。,12,36,6,0.5
+8,en,Qwen2.5,The camera is optimizing runtime speed.,39,39,7,0.1794871794871795
+9,zh,Qwen2.5,摄像头正在记录实验日志。,12,36,7,0.5833333333333334
+9,en,Qwen2.5,The camera is recording experiment logs.,40,40,7,0.175
+10,zh,Qwen2.5,摄像头正在生成预测结果。,12,36,6,0.5
+10,en,Qwen2.5,The camera is generating predictions.,37,37,6,0.16216216216216217
+11,zh,Qwen2.5,传感器正在处理输入数据。,12,36,6,0.5
+11,en,Qwen2.5,The sensor is processing input data.,36,36,7,0.19444444444444445
+12,zh,Qwen2.5,传感器正在分析测试结果。,12,36,6,0.5
+12,en,Qwen2.5,The sensor is analyzing the test results.,41,41,8,0.1951219512195122
+13,zh,Qwen2.5,传感器正在优化运行速度。,12,36,6,0.5
+13,en,Qwen2.5,The sensor is optimizing runtime speed.,39,39,7,0.1794871794871795
+14,zh,Qwen2.5,传感器正在记录实验日志。,12,36,7,0.5833333333333334
+14,en,Qwen2.5,The sensor is recording experiment logs.,40,40,7,0.175
+15,zh,Qwen2.5,传感器正在生成预测结果。,12,36,6,0.5
+15,en,Qwen2.5,The sensor is generating predictions.,37,37,6,0.16216216216216217
+16,zh,Qwen2.5,视觉模型正在处理输入数据。,13,39,7,0.5384615384615384
+16,en,Qwen2.5,The vision model is processing input data.,42,42,8,0.19047619047619047
+17,zh,Qwen2.5,视觉模型正在分析测试结果。,13,39,7,0.5384615384615384
+17,en,Qwen2.5,The vision model is analyzing the test results.,47,47,9,0.19148936170212766
+18,zh,Qwen2.5,视觉模型正在优化运行速度。,13,39,7,0.5384615384615384
+18,en,Qwen2.5,The vision model is optimizing runtime speed.,45,45,8,0.17777777777777778
+19,zh,Qwen2.5,视觉模型正在记录实验日志。,13,39,8,0.6153846153846154
+19,en,Qwen2.5,The vision model is recording experiment logs.,46,46,8,0.17391304347826086
+20,zh,Qwen2.5,视觉模型正在生成预测结果。,13,39,7,0.5384615384615384
+20,en,Qwen2.5,The vision model is generating predictions.,43,43,7,0.16279069767441862
+21,zh,Qwen2.5,机械臂正在处理输入数据。,12,36,7,0.5833333333333334
+21,en,Qwen2.5,The robotic arm is processing input data.,41,41,8,0.1951219512195122
+22,zh,Qwen2.5,机械臂正在分析测试结果。,12,36,7,0.5833333333333334
+22,en,Qwen2.5,The robotic arm is analyzing the test results.,46,46,9,0.1956521739130435
+23,zh,Qwen2.5,机械臂正在优化运行速度。,12,36,7,0.5833333333333334
+23,en,Qwen2.5,The robotic arm is optimizing runtime speed.,44,44,8,0.18181818181818182
+24,zh,Qwen2.5,机械臂正在记录实验日志。,12,36,8,0.6666666666666666
+24,en,Qwen2.5,The robotic arm is recording experiment logs.,45,45,8,0.17777777777777778
+25,zh,Qwen2.5,机械臂正在生成预测结果。,12,36,7,0.5833333333333334
+25,en,Qwen2.5,The robotic arm is generating predictions.,42,42,7,0.16666666666666666
+26,zh,Qwen2.5,训练程序正在处理输入数据。,13,39,7,0.5384615384615384
+26,en,Qwen2.5,The training program is processing input data.,46,46,8,0.17391304347826086
+27,zh,Qwen2.5,训练程序正在分析测试结果。,13,39,7,0.5384615384615384
+27,en,Qwen2.5,The training program is analyzing the test results.,51,51,9,0.17647058823529413
+28,zh,Qwen2.5,训练程序正在优化运行速度。,13,39,7,0.5384615384615384
+28,en,Qwen2.5,The training program is optimizing runtime speed.,49,49,8,0.16326530612244897
+29,zh,Qwen2.5,训练程序正在记录实验日志。,13,39,8,0.6153846153846154
+29,en,Qwen2.5,The training program is recording experiment logs.,50,50,8,0.16
+30,zh,Qwen2.5,训练程序正在生成预测结果。,13,39,7,0.5384615384615384
+30,en,Qwen2.5,The training program is generating predictions.,47,47,7,0.14893617021276595
+31,zh,Qwen2.5,数据处理模块正在处理输入数据。,15,45,8,0.5333333333333333
+31,en,Qwen2.5,The data processing module is processing input data.,52,52,9,0.17307692307692307
+32,zh,Qwen2.5,数据处理模块正在分析测试结果。,15,45,8,0.5333333333333333
+32,en,Qwen2.5,The data processing module is analyzing the test results.,57,57,10,0.17543859649122806
+33,zh,Qwen2.5,数据处理模块正在优化运行速度。,15,45,8,0.5333333333333333
+33,en,Qwen2.5,The data processing module is optimizing runtime speed.,55,55,9,0.16363636363636364
+34,zh,Qwen2.5,数据处理模块正在记录实验日志。,15,45,9,0.6
+34,en,Qwen2.5,The data processing module is recording experiment logs.,56,56,9,0.16071428571428573
+35,zh,Qwen2.5,数据处理模块正在生成预测结果。,15,45,8,0.5333333333333333
+35,en,Qwen2.5,The data processing module is generating predictions.,53,53,8,0.1509433962264151
+36,zh,Qwen2.5,图像分类器正在处理输入数据。,14,42,8,0.5714285714285714
+36,en,Qwen2.5,The image classifier is processing input data.,46,46,8,0.17391304347826086
+37,zh,Qwen2.5,图像分类器正在分析测试结果。,14,42,8,0.5714285714285714
+37,en,Qwen2.5,The image classifier is analyzing the test results.,51,51,9,0.17647058823529413
+38,zh,Qwen2.5,图像分类器正在优化运行速度。,14,42,8,0.5714285714285714
+38,en,Qwen2.5,The image classifier is optimizing runtime speed.,49,49,8,0.16326530612244897
+39,zh,Qwen2.5,图像分类器正在记录实验日志。,14,42,9,0.6428571428571429
+39,en,Qwen2.5,The image classifier is recording experiment logs.,50,50,8,0.16
+40,zh,Qwen2.5,图像分类器正在生成预测结果。,14,42,8,0.5714285714285714
+40,en,Qwen2.5,The image classifier is generating predictions.,47,47,7,0.14893617021276595
+41,zh,Qwen2.5,推理服务正在处理输入数据。,13,39,7,0.5384615384615384
+41,en,Qwen2.5,The inference service is processing input data.,47,47,8,0.1702127659574468
+42,zh,Qwen2.5,推理服务正在分析测试结果。,13,39,7,0.5384615384615384
+42,en,Qwen2.5,The inference service is analyzing the test results.,52,52,9,0.17307692307692307
+43,zh,Qwen2.5,推理服务正在优化运行速度。,13,39,7,0.5384615384615384
+43,en,Qwen2.5,The inference service is optimizing runtime speed.,50,50,8,0.16
+44,zh,Qwen2.5,推理服务正在记录实验日志。,13,39,8,0.6153846153846154
+44,en,Qwen2.5,The inference service is recording experiment logs.,51,51,8,0.1568627450980392
+45,zh,Qwen2.5,推理服务正在生成预测结果。,13,39,7,0.5384615384615384
+45,en,Qwen2.5,The inference service is generating predictions.,48,48,7,0.14583333333333334
+46,zh,Qwen2.5,多模态模型正在处理输入数据。,14,42,9,0.6428571428571429
+46,en,Qwen2.5,The multimodal model is processing input data.,46,46,9,0.1956521739130435
+47,zh,Qwen2.5,多模态模型正在分析测试结果。,14,42,9,0.6428571428571429
+47,en,Qwen2.5,The multimodal model is analyzing the test results.,51,51,10,0.19607843137254902
+48,zh,Qwen2.5,多模态模型正在优化运行速度。,14,42,9,0.6428571428571429
+48,en,Qwen2.5,The multimodal model is optimizing runtime speed.,49,49,9,0.1836734693877551
+49,zh,Qwen2.5,多模态模型正在记录实验日志。,14,42,10,0.7142857142857143
+49,en,Qwen2.5,The multimodal model is recording experiment logs.,50,50,9,0.18
+50,zh,Qwen2.5,多模态模型正在生成预测结果。,14,42,9,0.6428571428571429
+50,en,Qwen2.5,The multimodal model is generating predictions.,47,47,8,0.1702127659574468
+1,zh,DistilGPT2,机器人正在处理输入数据。,12,36,25,2.0833333333333335
+1,en,DistilGPT2,The robot is processing input data.,35,35,7,0.2
+2,zh,DistilGPT2,机器人正在分析测试结果。,12,36,26,2.1666666666666665
+2,en,DistilGPT2,The robot is analyzing the test results.,40,40,8,0.2
+3,zh,DistilGPT2,机器人正在优化运行速度。,12,36,23,1.9166666666666667
+3,en,DistilGPT2,The robot is optimizing runtime speed.,38,38,7,0.18421052631578946
+4,zh,DistilGPT2,机器人正在记录实验日志。,12,36,25,2.0833333333333335
+4,en,DistilGPT2,The robot is recording experiment logs.,39,39,7,0.1794871794871795
+5,zh,DistilGPT2,机器人正在生成预测结果。,12,36,25,2.0833333333333335
+5,en,DistilGPT2,The robot is generating predictions.,36,36,6,0.16666666666666666
+6,zh,DistilGPT2,摄像头正在处理输入数据。,12,36,27,2.25
+6,en,DistilGPT2,The camera is processing input data.,36,36,7,0.19444444444444445
+7,zh,DistilGPT2,摄像头正在分析测试结果。,12,36,28,2.3333333333333335
+7,en,DistilGPT2,The camera is analyzing the test results.,41,41,8,0.1951219512195122
+8,zh,DistilGPT2,摄像头正在优化运行速度。,12,36,25,2.0833333333333335
+8,en,DistilGPT2,The camera is optimizing runtime speed.,39,39,7,0.1794871794871795
+9,zh,DistilGPT2,摄像头正在记录实验日志。,12,36,27,2.25
+9,en,DistilGPT2,The camera is recording experiment logs.,40,40,7,0.175
+10,zh,DistilGPT2,摄像头正在生成预测结果。,12,36,27,2.25
+10,en,DistilGPT2,The camera is generating predictions.,37,37,6,0.16216216216216217
+11,zh,DistilGPT2,传感器正在处理输入数据。,12,36,26,2.1666666666666665
+11,en,DistilGPT2,The sensor is processing input data.,36,36,7,0.19444444444444445
+12,zh,DistilGPT2,传感器正在分析测试结果。,12,36,27,2.25
+12,en,DistilGPT2,The sensor is analyzing the test results.,41,41,8,0.1951219512195122
+13,zh,DistilGPT2,传感器正在优化运行速度。,12,36,24,2.0
+13,en,DistilGPT2,The sensor is optimizing runtime speed.,39,39,7,0.1794871794871795
+14,zh,DistilGPT2,传感器正在记录实验日志。,12,36,26,2.1666666666666665
+14,en,DistilGPT2,The sensor is recording experiment logs.,40,40,7,0.175
+15,zh,DistilGPT2,传感器正在生成预测结果。,12,36,26,2.1666666666666665
+15,en,DistilGPT2,The sensor is generating predictions.,37,37,6,0.16216216216216217
+16,zh,DistilGPT2,视觉模型正在处理输入数据。,13,39,31,2.3846153846153846
+16,en,DistilGPT2,The vision model is processing input data.,42,42,8,0.19047619047619047
+17,zh,DistilGPT2,视觉模型正在分析测试结果。,13,39,32,2.4615384615384617
+17,en,DistilGPT2,The vision model is analyzing the test results.,47,47,9,0.19148936170212766
+18,zh,DistilGPT2,视觉模型正在优化运行速度。,13,39,29,2.230769230769231
+18,en,DistilGPT2,The vision model is optimizing runtime speed.,45,45,8,0.17777777777777778
+19,zh,DistilGPT2,视觉模型正在记录实验日志。,13,39,31,2.3846153846153846
+19,en,DistilGPT2,The vision model is recording experiment logs.,46,46,8,0.17391304347826086
+20,zh,DistilGPT2,视觉模型正在生成预测结果。,13,39,31,2.3846153846153846
+20,en,DistilGPT2,The vision model is generating predictions.,43,43,7,0.16279069767441862
+21,zh,DistilGPT2,机械臂正在处理输入数据。,12,36,27,2.25
+21,en,DistilGPT2,The robotic arm is processing input data.,41,41,8,0.1951219512195122
+22,zh,DistilGPT2,机械臂正在分析测试结果。,12,36,28,2.3333333333333335
+22,en,DistilGPT2,The robotic arm is analyzing the test results.,46,46,9,0.1956521739130435
+23,zh,DistilGPT2,机械臂正在优化运行速度。,12,36,25,2.0833333333333335
+23,en,DistilGPT2,The robotic arm is optimizing runtime speed.,44,44,8,0.18181818181818182
+24,zh,DistilGPT2,机械臂正在记录实验日志。,12,36,27,2.25
+24,en,DistilGPT2,The robotic arm is recording experiment logs.,45,45,8,0.17777777777777778
+25,zh,DistilGPT2,机械臂正在生成预测结果。,12,36,27,2.25
+25,en,DistilGPT2,The robotic arm is generating predictions.,42,42,7,0.16666666666666666
+26,zh,DistilGPT2,训练程序正在处理输入数据。,13,39,30,2.3076923076923075
+26,en,DistilGPT2,The training program is processing input data.,46,46,8,0.17391304347826086
+27,zh,DistilGPT2,训练程序正在分析测试结果。,13,39,31,2.3846153846153846
+27,en,DistilGPT2,The training program is analyzing the test results.,51,51,9,0.17647058823529413
+28,zh,DistilGPT2,训练程序正在优化运行速度。,13,39,28,2.1538461538461537
+28,en,DistilGPT2,The training program is optimizing runtime speed.,49,49,8,0.16326530612244897
+29,zh,DistilGPT2,训练程序正在记录实验日志。,13,39,30,2.3076923076923075
+29,en,DistilGPT2,The training program is recording experiment logs.,50,50,8,0.16
+30,zh,DistilGPT2,训练程序正在生成预测结果。,13,39,30,2.3076923076923075
+30,en,DistilGPT2,The training program is generating predictions.,47,47,7,0.14893617021276595
+31,zh,DistilGPT2,数据处理模块正在处理输入数据。,15,45,34,2.2666666666666666
+31,en,DistilGPT2,The data processing module is processing input data.,52,52,9,0.17307692307692307
+32,zh,DistilGPT2,数据处理模块正在分析测试结果。,15,45,35,2.3333333333333335
+32,en,DistilGPT2,The data processing module is analyzing the test results.,57,57,10,0.17543859649122806
+33,zh,DistilGPT2,数据处理模块正在优化运行速度。,15,45,32,2.1333333333333333
+33,en,DistilGPT2,The data processing module is optimizing runtime speed.,55,55,9,0.16363636363636364
+34,zh,DistilGPT2,数据处理模块正在记录实验日志。,15,45,34,2.2666666666666666
+34,en,DistilGPT2,The data processing module is recording experiment logs.,56,56,9,0.16071428571428573
+35,zh,DistilGPT2,数据处理模块正在生成预测结果。,15,45,34,2.2666666666666666
+35,en,DistilGPT2,The data processing module is generating predictions.,53,53,8,0.1509433962264151
+36,zh,DistilGPT2,图像分类器正在处理输入数据。,14,42,32,2.2857142857142856
+36,en,DistilGPT2,The image classifier is processing input data.,46,46,9,0.1956521739130435
+37,zh,DistilGPT2,图像分类器正在分析测试结果。,14,42,33,2.357142857142857
+37,en,DistilGPT2,The image classifier is analyzing the test results.,51,51,10,0.19607843137254902
+38,zh,DistilGPT2,图像分类器正在优化运行速度。,14,42,30,2.142857142857143
+38,en,DistilGPT2,The image classifier is optimizing runtime speed.,49,49,9,0.1836734693877551
+39,zh,DistilGPT2,图像分类器正在记录实验日志。,14,42,32,2.2857142857142856
+39,en,DistilGPT2,The image classifier is recording experiment logs.,50,50,9,0.18
+40,zh,DistilGPT2,图像分类器正在生成预测结果。,14,42,32,2.2857142857142856
+40,en,DistilGPT2,The image classifier is generating predictions.,47,47,8,0.1702127659574468
+41,zh,DistilGPT2,推理服务正在处理输入数据。,13,39,28,2.1538461538461537
+41,en,DistilGPT2,The inference service is processing input data.,47,47,8,0.1702127659574468
+42,zh,DistilGPT2,推理服务正在分析测试结果。,13,39,29,2.230769230769231
+42,en,DistilGPT2,The inference service is analyzing the test results.,52,52,9,0.17307692307692307
+43,zh,DistilGPT2,推理服务正在优化运行速度。,13,39,26,2.0
+43,en,DistilGPT2,The inference service is optimizing runtime speed.,50,50,8,0.16
+44,zh,DistilGPT2,推理服务正在记录实验日志。,13,39,28,2.1538461538461537
+44,en,DistilGPT2,The inference service is recording experiment logs.,51,51,8,0.1568627450980392
+45,zh,DistilGPT2,推理服务正在生成预测结果。,13,39,28,2.1538461538461537
+45,en,DistilGPT2,The inference service is generating predictions.,48,48,7,0.14583333333333334
+46,zh,DistilGPT2,多模态模型正在处理输入数据。,14,42,32,2.2857142857142856
+46,en,DistilGPT2,The multimodal model is processing input data.,46,46,10,0.21739130434782608
+47,zh,DistilGPT2,多模态模型正在分析测试结果。,14,42,33,2.357142857142857
+47,en,DistilGPT2,The multimodal model is analyzing the test results.,51,51,11,0.21568627450980393
+48,zh,DistilGPT2,多模态模型正在优化运行速度。,14,42,30,2.142857142857143
+48,en,DistilGPT2,The multimodal model is optimizing runtime speed.,49,49,10,0.20408163265306123
+49,zh,DistilGPT2,多模态模型正在记录实验日志。,14,42,32,2.2857142857142856
+49,en,DistilGPT2,The multimodal model is recording experiment logs.,50,50,10,0.2
+50,zh,DistilGPT2,多模态模型正在生成预测结果。,14,42,32,2.2857142857142856
+50,en,DistilGPT2,The multimodal model is generating predictions.,47,47,9,0.19148936170212766

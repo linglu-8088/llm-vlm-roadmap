@@ -1,0 +1,5 @@
+﻿tokenizer,language,samples,avg_tokens,min_tokens,max_tokens,avg_tokens_per_char
+DistilGPT2,en,50,8.1,6,11,0.17925851048207062
+DistilGPT2,zh,50,29.0,23,35,2.227952380952381
+Qwen2.5,en,50,7.9,6,10,0.17513724117878965
+Qwen2.5,zh,50,7.3,6,10,0.5601062271062272

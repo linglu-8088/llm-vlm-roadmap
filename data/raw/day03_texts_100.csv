@@ -1,0 +1,101 @@
+﻿pair_id,language,text
+1,zh,机器人正在处理输入数据。
+1,en,The robot is processing input data.
+2,zh,机器人正在分析测试结果。
+2,en,The robot is analyzing the test results.
+3,zh,机器人正在优化运行速度。
+3,en,The robot is optimizing runtime speed.
+4,zh,机器人正在记录实验日志。
+4,en,The robot is recording experiment logs.
+5,zh,机器人正在生成预测结果。
+5,en,The robot is generating predictions.
+6,zh,摄像头正在处理输入数据。
+6,en,The camera is processing input data.
+7,zh,摄像头正在分析测试结果。
+7,en,The camera is analyzing the test results.
+8,zh,摄像头正在优化运行速度。
+8,en,The camera is optimizing runtime speed.
+9,zh,摄像头正在记录实验日志。
+9,en,The camera is recording experiment logs.
+10,zh,摄像头正在生成预测结果。
+10,en,The camera is generating predictions.
+11,zh,传感器正在处理输入数据。
+11,en,The sensor is processing input data.
+12,zh,传感器正在分析测试结果。
+12,en,The sensor is analyzing the test results.
+13,zh,传感器正在优化运行速度。
+13,en,The sensor is optimizing runtime speed.
+14,zh,传感器正在记录实验日志。
+14,en,The sensor is recording experiment logs.
+15,zh,传感器正在生成预测结果。
+15,en,The sensor is generating predictions.
+16,zh,视觉模型正在处理输入数据。
+16,en,The vision model is processing input data.
+17,zh,视觉模型正在分析测试结果。
+17,en,The vision model is analyzing the test results.
+18,zh,视觉模型正在优化运行速度。
+18,en,The vision model is optimizing runtime speed.
+19,zh,视觉模型正在记录实验日志。
+19,en,The vision model is recording experiment logs.
+20,zh,视觉模型正在生成预测结果。
+20,en,The vision model is generating predictions.
+21,zh,机械臂正在处理输入数据。
+21,en,The robotic arm is processing input data.
+22,zh,机械臂正在分析测试结果。
+22,en,The robotic arm is analyzing the test results.
+23,zh,机械臂正在优化运行速度。
+23,en,The robotic arm is optimizing runtime speed.
+24,zh,机械臂正在记录实验日志。
+24,en,The robotic arm is recording experiment logs.
+25,zh,机械臂正在生成预测结果。
+25,en,The robotic arm is generating predictions.
+26,zh,训练程序正在处理输入数据。
+26,en,The training program is processing input data.
+27,zh,训练程序正在分析测试结果。
+27,en,The training program is analyzing the test results.
+28,zh,训练程序正在优化运行速度。
+28,en,The training program is optimizing runtime speed.
+29,zh,训练程序正在记录实验日志。
+29,en,The training program is recording experiment logs.
+30,zh,训练程序正在生成预测结果。
+30,en,The training program is generating predictions.
+31,zh,数据处理模块正在处理输入数据。
+31,en,The data processing module is processing input data.
+32,zh,数据处理模块正在分析测试结果。
+32,en,The data processing module is analyzing the test results.
+33,zh,数据处理模块正在优化运行速度。
+33,en,The data processing module is optimizing runtime speed.
+34,zh,数据处理模块正在记录实验日志。
+34,en,The data processing module is recording experiment logs.
+35,zh,数据处理模块正在生成预测结果。
+35,en,The data processing module is generating predictions.
+36,zh,图像分类器正在处理输入数据。
+36,en,The image classifier is processing input data.
+37,zh,图像分类器正在分析测试结果。
+37,en,The image classifier is analyzing the test results.
+38,zh,图像分类器正在优化运行速度。
+38,en,The image classifier is optimizing runtime speed.
+39,zh,图像分类器正在记录实验日志。
+39,en,The image classifier is recording experiment logs.
+40,zh,图像分类器正在生成预测结果。
+40,en,The image classifier is generating predictions.
+41,zh,推理服务正在处理输入数据。
+41,en,The inference service is processing input data.
+42,zh,推理服务正在分析测试结果。
+42,en,The inference service is analyzing the test results.
+43,zh,推理服务正在优化运行速度。
+43,en,The inference service is optimizing runtime speed.
+44,zh,推理服务正在记录实验日志。
+44,en,The inference service is recording experiment logs.
+45,zh,推理服务正在生成预测结果。
+45,en,The inference service is generating predictions.
+46,zh,多模态模型正在处理输入数据。
+46,en,The multimodal model is processing input data.
+47,zh,多模态模型正在分析测试结果。
+47,en,The multimodal model is analyzing the test results.
+48,zh,多模态模型正在优化运行速度。
+48,en,The multimodal model is optimizing runtime speed.
+49,zh,多模态模型正在记录实验日志。
+49,en,The multimodal model is recording experiment logs.
+50,zh,多模态模型正在生成预测结果。
+50,en,The multimodal model is generating predictions.
